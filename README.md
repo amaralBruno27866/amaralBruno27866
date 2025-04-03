@@ -3,9 +3,6 @@
 ## 📌 About Me
 Passionate software developer with a strong background in full-stack web development, system architecture, and software engineering. Experienced in building ERP/CRM solutions and implementing scalable applications.
 
-## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/brunoalencaramaral/)
-
 ## 🚀 Tech Stack & Skills
 
 ### 🎨 Frontend
@@ -84,12 +81,12 @@ Silver Linings Therapy is a therapy management application designed to streamlin
 ![SilverLiningsTherapy_1](https://github.com/user-attachments/assets/ef7e0b66-dfc0-403b-8641-edc71322cac6)
 
 ### 📌 [The Hall of Bones](https://github.com/amaralBruno27866/the_hall_of_bones.git)
-A Kotlin-based Android application designed for task management and productivity.
-![Android App](https://yourimageurl.com/android-app.png)
+The Hall of Bones is a personal portfolio project that allows the creation, editing, and deletion of content cards through a graphical interface. The project is divided into two main parts: the administration dashboard and the public page that displays the cards to users.
+![Captura de tela 2025-04-03 083557](https://github.com/user-attachments/assets/9d1da7df-8ac8-4341-9c28-184f833cdde7)
 
-### 📌 [Web Portfolio](https://github.com/yourportfolio) 
-A personal web portfolio showcasing skills, projects, and professional experience.
-![Portfolio](https://yourimageurl.com/portfolio.png)
+### 📌 [To-Do List Application](https://github.com/amaralBruno27866/todoList.git)
+This is a to-do list application developed with React, TypeScript, and Vite. The application allows users to add, complete, and delete tasks, with data persistence in localStorage.
+![todoList](https://github.com/user-attachments/assets/5e068eee-4288-4bfe-959f-6105ac8d1491)
 
 ## 📊 GitHub Stats
 ![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=amaralBruno27866&show_icons=true&count_private=true&theme=radical)
@@ -97,4 +94,8 @@ A personal web portfolio showcasing skills, projects, and professional experienc
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amaralBruno27866&layout=compact&langs_count=10&theme=radical)
 
 ---
+## 👋 Connect with Me
+📧 [b.alencar.amaral@gmail.com](mailto:b.alencar.amaral@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/brunoalencaramaral/)
+
 *Feel free to connect with me and explore my projects!*
