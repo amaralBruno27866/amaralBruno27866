@@ -79,11 +79,11 @@ Passionate software developer with a strong background in full-stack web develop
 
 ## 🌟 Featured Projects
 
-### 📌 [ERP/CRM System](https://github.com/yourproject) 
-A full-stack ERP/CRM solution designed for small businesses with a user-friendly interface, local server deployment, and AI-driven automation.
-![ERP/CRM](https://yourimageurl.com/erp-crm.png)
+### 📌 [Silver Linings Therapy](https://github.com/amaralBruno27866/Silver_Linings_Therapy.git) 
+Silver Linings Therapy is a therapy management application designed to streamline the process of managing patient and user data, as well as handling various therapy-related forms. The application includes features for adding users and patients, managing forms, and generating downloadable HTML and PDF files.
+![SilverLiningsTherapy_1](https://github.com/user-attachments/assets/ef7e0b66-dfc0-403b-8641-edc71322cac6)
 
-### 📌 [Android Mobile App](https://github.com/yourandroidapp) 
+### 📌 [The Hall of Bones](https://github.com/amaralBruno27866/the_hall_of_bones.git)
 A Kotlin-based Android application designed for task management and productivity.
 ![Android App](https://yourimageurl.com/android-app.png)
 
