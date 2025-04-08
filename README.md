@@ -1,4 +1,4 @@
-# 💼 Bruno Alencar Amaral
+# 💼 Bruno Amaral
 
 ## 📌 About Me
 Passionate software developer with a strong background in full-stack web development, system architecture, and software engineering. Experienced in building ERP/CRM solutions and implementing scalable applications.
