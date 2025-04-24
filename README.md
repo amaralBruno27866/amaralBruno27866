@@ -96,6 +96,5 @@ This is a to-do list application developed with React, TypeScript, and Vite. The
 ---
 ## 👋 Connect with Me
 📧 [b.alencar.amaral@gmail.com](mailto:b.alencar.amaral@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/brunoalencaramaral/)
 
 *Feel free to connect with me and explore my projects!*
